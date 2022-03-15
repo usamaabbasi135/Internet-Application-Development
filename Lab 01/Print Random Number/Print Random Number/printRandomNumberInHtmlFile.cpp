@@ -26,7 +26,13 @@ void createFile() {
 
 
     ofstream file("RandomNumbers.html");           //creating an HTML file 
-    file << "The random numbers are: </br> " << endl;    //Writting initial line to the file
+    file << "<html>" << endl;
+    file << "<head>" << endl;
+    file << "<title> Random Numbers </title>" << endl;
+    file << "</head>" << endl;
+    file << "<body>" << endl;
+    file << "<h1>Random Numbers</h1>" << endl;
+    file << "The random numbers are: </br> " << endl;    //Writting initial line to the file 
     srand(time(0));   //This function would help in generating new random number every time the program runs
     int randomNumber[5]; //Creating an array to store random numbers
 
@@ -35,7 +41,8 @@ void createFile() {
         randomNumber[i] = rand();
         file << randomNumber[i] << endl << "</br>";
     }
-
+    file << "</body>" << endl;
+    file << "</html>" << endl;
     //Closing the file
     file.close();
 }

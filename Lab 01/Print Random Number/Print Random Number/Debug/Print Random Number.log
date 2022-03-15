@@ -1,3 +1,3 @@
 ﻿  printRandomNumberInHtmlFile.cpp
-D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 01\Print Random Number\Print Random Number\printRandomNumberInHtmlFile.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 01\Print Random Number\Print Random Number\printRandomNumberInHtmlFile.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Print Random Number.vcxproj -> D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 01\Print Random Number\Debug\Print Random Number.exe
