@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ASP.NET Page Processing
+</name>
+</assembly>
+<members>
+<member name="T:ASP.NET_Page_Processing.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ASP.NET_Page_Processing.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:ASP.NET_Page_Processing.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:ASP.NET_Page_Processing.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:ASP.NET_Page_Processing.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:ASP.NET_Page_Processing.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:ASP.NET_Page_Processing.ASP_Page_processing_Demo._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP.NET_Page_Processing.ASP_Page_processing_Demo._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASP.NET_Page_Processing.ASP_Page_processing_Demo._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

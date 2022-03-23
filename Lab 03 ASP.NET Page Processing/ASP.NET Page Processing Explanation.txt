@@ -1,0 +1,19 @@
+The ASP.NET page on the server side goes through a lifecycle stages. There are five main phases/stages of any ASP.NET page which are as follows:
+1) Initialization
+2) Loading
+3) Event Handling
+4) Rendering
+5) Unload
+
+There are different lifecycle events that are raised in different stages of the ASP.NET life cycle stages which are as follows:
+1) Pre Initialization event
+2) Initialization event
+3) Initialization Complete event
+4) Pre Load Event
+5) Load Event
+6) Control Events
+7) Load Complete Event
+8) Pre Render Event
+9) Pre Render Complete Event
+10) Render
+11) Load
