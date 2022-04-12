@@ -14,8 +14,6 @@
         </div>
         <p>
             &nbsp;</p>
-        <p>
-            &nbsp;</p>
     </form>
 </body>
 </html>
