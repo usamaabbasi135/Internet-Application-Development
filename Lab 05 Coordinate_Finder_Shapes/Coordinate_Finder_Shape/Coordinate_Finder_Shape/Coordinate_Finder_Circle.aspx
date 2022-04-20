@@ -11,7 +11,6 @@
         <div>
             <input type="image" id="ImgButton" src="circle.PNG" runat="server" onServerClick="ImgButton_ServerClick"  />
             <p id="Result" runat="server"></p>
-            <p id="P1" runat="server"></p>
         </div>
     </form>
 </body>
