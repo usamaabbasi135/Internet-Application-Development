@@ -1,0 +1,11 @@
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\bin\Dynamic_Buttons.dll.config
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\bin\Dynamic_Buttons.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\bin\Dynamic_Buttons.pdb
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\bin\Dynamic_Buttons.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.vbproj.AssemblyReference.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.Resources.resources
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.vbproj.GenerateResource.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.vbproj.CoreCompileInputs.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 06 Dynamic Button\Dynamic_Buttons\Dynamic_Buttons\obj\Debug\Dynamic_Buttons.pdb
