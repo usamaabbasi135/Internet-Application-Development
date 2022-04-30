@@ -11,21 +11,8 @@
         <div>
             <div> <asp:Button ID="CreateView" Text="Create Button And Text Box" runat="server" /></div>
             <asp:Table ID="tble" runat="server">
-                
-            <%--<asp:TableRow ID = "row" runat="server">
-             <asp:TableCell ID = "cell" runat="server">
-                 <asp:TextBox runat="server"></asp:TextBox>
-             </asp:TableCell>
-             <asp:TableCell ID = "TableCell1" runat="server">
-                 <asp:Button runat="server" text ="button1"/>
-             </asp:TableCell>
-             <asp:TableCell ID = "TableCell2" runat="server">
-                 <asp:Button runat="server" text ="button1"/>
-             </asp:TableCell>
-             </asp:TableRow>--%> 
-        </asp:Table>
-            
-        </div>
+            </asp:Table>
+       </div>
     </form>
 </body>
 </html>
