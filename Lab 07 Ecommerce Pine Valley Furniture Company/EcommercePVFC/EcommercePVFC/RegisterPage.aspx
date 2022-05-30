@@ -13,8 +13,10 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+        User Id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+        <br />
+        <br />
         <asp:Label ID="Label1" runat="server" Text="User Name"></asp:Label>
 &nbsp;
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
@@ -27,8 +29,12 @@
         Password&nbsp;&nbsp;&nbsp;
         <input id="Password1" type="password" runat="server" /><br />
         <br />
+        <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button1" runat="server" Height="30px" Text="Register" Width="94px" />
+        <p>
+            <asp:TextBox ID="TextBox3" runat="server" Height="16px" Width="74px"></asp:TextBox>
+        </p>
     </form>
 </body>
 </html>

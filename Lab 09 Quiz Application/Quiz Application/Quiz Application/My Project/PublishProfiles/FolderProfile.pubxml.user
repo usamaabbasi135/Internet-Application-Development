@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-05-26T10:09:59.6550144Z;True|2022-05-26T14:15:43.8206483+05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AccessDeniedPage.aspx">
+      <publishTime>05/10/2022 21:18:10</publishTime>
+    </File>
+    <File Include="AddQuestion.aspx">
+      <publishTime>05/26/2022 10:43:38</publishTime>
+    </File>
+    <File Include="AdminInterface.aspx">
+      <publishTime>05/11/2022 19:08:38</publishTime>
+    </File>
+    <File Include="bin/Quiz Application.dll">
+      <publishTime>05/26/2022 15:09:57</publishTime>
+    </File>
+    <File Include="bin/Quiz Application.pdb">
+      <publishTime>05/26/2022 15:09:57</publishTime>
+    </File>
+    <File Include="bin/Quiz Application.xml">
+      <publishTime>05/26/2022 15:09:57</publishTime>
+    </File>
+    <File Include="DefaultPage.aspx">
+      <publishTime>05/25/2022 19:03:29</publishTime>
+    </File>
+    <File Include="ExaminerInterface.aspx">
+      <publishTime>05/11/2022 19:54:32</publishTime>
+    </File>
+    <File Include="FormSubmission.aspx">
+      <publishTime>05/14/2022 12:30:26</publishTime>
+    </File>
+    <File Include="Quiz.aspx">
+      <publishTime>05/26/2022 10:56:11</publishTime>
+    </File>
+    <File Include="Setting.aspx">
+      <publishTime>05/14/2022 12:15:44</publishTime>
+    </File>
+    <File Include="SignUp.aspx">
+      <publishTime>05/25/2022 14:44:01</publishTime>
+    </File>
+    <File Include="student.aspx">
+      <publishTime>05/14/2022 12:27:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/26/2022 15:09:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

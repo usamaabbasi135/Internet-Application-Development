@@ -1,0 +1,11 @@
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\bin\Lab 08 Multiple Tasks.dll.config
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\bin\Lab 08 Multiple Tasks.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\bin\Lab 08 Multiple Tasks.pdb
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\bin\Lab 08 Multiple Tasks.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.vbproj.AssemblyReference.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab_08_Multiple_Tasks.Resources.resources
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.vbproj.GenerateResource.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.vbproj.CoreCompileInputs.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\Lab 08 Multiple Tasks\obj\Debug\Lab 08 Multiple Tasks.pdb

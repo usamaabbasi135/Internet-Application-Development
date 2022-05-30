@@ -1,0 +1,11 @@
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\bin\Quiz Application.dll.config
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\bin\Quiz Application.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\bin\Quiz Application.pdb
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\bin\Quiz Application.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.vbproj.AssemblyReference.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz_Application.Resources.resources
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.vbproj.GenerateResource.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.vbproj.CoreCompileInputs.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 08 Multiple Tasks\Quiz Application\Quiz Application\obj\Debug\Quiz Application.pdb

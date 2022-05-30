@@ -1,0 +1,11 @@
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\bin\Quiz Application.dll.config
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\bin\Quiz Application.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\bin\Quiz Application.pdb
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\bin\Quiz Application.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz_Application.Resources.resources
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.vbproj.GenerateResource.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.vbproj.CoreCompileInputs.cache
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.dll
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.xml
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.pdb
+D:\Sixth Semester\Internet Application Development\Github Assignments\Internet-Application-Development\Lab 09 Quiz Application\Quiz Application\Quiz Application\obj\Release\Quiz Application.vbproj.AssemblyReference.cache

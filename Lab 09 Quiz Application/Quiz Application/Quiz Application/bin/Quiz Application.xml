@@ -1,0 +1,1121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quiz Application
+</name>
+</assembly>
+<members>
+<member name="T:Quiz_Application.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Quiz_Application.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Quiz_Application.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Quiz_Application.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Quiz_Application.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Quiz_Application.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:Quiz_Application.AccessDeniedPage._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._QuestionsInfo">
+<summary>
+QuestionsInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnDesc">
+<summary>
+RadiobtnDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnMCQs">
+<summary>
+RadiobtnMCQs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnTFs">
+<summary>
+RadiobtnTFs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._TxtboxQuestionStatement">
+<summary>
+TxtboxQuestionStatement control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnEasy">
+<summary>
+RadiobtnEasy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnMedium">
+<summary>
+RadiobtnMedium control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._RadiobtnDifficult">
+<summary>
+RadiobtnDifficult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._TxtboxMarks">
+<summary>
+TxtboxMarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceOptionA">
+<summary>
+SpaceOptionA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionATitle">
+<summary>
+Txtbox_OptionATitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionA">
+<summary>
+Txtbox_OptionA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceOptionB">
+<summary>
+SpaceOptionB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionBTitle">
+<summary>
+Txtbox_OptionBTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionB">
+<summary>
+Txtbox_OptionB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceOptionC">
+<summary>
+SpaceOptionC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionCTitle">
+<summary>
+Txtbox_OptionCTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionC">
+<summary>
+Txtbox_OptionC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceOptionD">
+<summary>
+SpaceOptionD control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionDTitle">
+<summary>
+Txtbox_OptionDTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_OptionD">
+<summary>
+Txtbox_OptionD control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceCorrectOption">
+<summary>
+SpaceCorrectOption control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_CorrectOptionTitle">
+<summary>
+Txtbox_CorrectOptionTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Txtbox_CorrectOption">
+<summary>
+Txtbox_CorrectOption control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._SpaceTF">
+<summary>
+SpaceTF control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._TFradiobtn_title">
+<summary>
+TFradiobtn_title control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Radiobtn_TF_True">
+<summary>
+Radiobtn_TF_True control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Radiobtn_TF_False">
+<summary>
+Radiobtn_TF_False control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._BtnInsertQuestion">
+<summary>
+BtnInsertQuestion control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._BtnClear">
+<summary>
+BtnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._ValidationSummary1">
+<summary>
+ValidationSummary1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AddQuestion._Lbl_showErrorMessages">
+<summary>
+Lbl_showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AdminInterface._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AdminInterface._Title">
+<summary>
+Title control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AdminInterface._AdminProfile">
+<summary>
+AdminProfile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AdminInterface._BtnChangeSetting">
+<summary>
+BtnChangeSetting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.AdminInterface._ShowErrorMessages">
+<summary>
+ShowErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._TxtboxEmail">
+<summary>
+TxtboxEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._TxtboxPassword">
+<summary>
+TxtboxPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._RadiobtnAdmin">
+<summary>
+RadiobtnAdmin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._RadiobtnExaminer">
+<summary>
+RadiobtnExaminer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._RadiobtnStudent">
+<summary>
+RadiobtnStudent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._LoginBtn">
+<summary>
+LoginBtn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._BtnClear">
+<summary>
+BtnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.DefaultPage._Lbl_showErrorMessages">
+<summary>
+Lbl_showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.ExaminerInterface._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.ExaminerInterface._Title">
+<summary>
+Title control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.ExaminerInterface._InstructorProfile">
+<summary>
+InstructorProfile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.ExaminerInterface._BtnInsertQuestion">
+<summary>
+BtnInsertQuestion control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.ExaminerInterface._ShowErrorMessages">
+<summary>
+ShowErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.FormSubmission._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.FormSubmission._showMarks">
+<summary>
+showMarks control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._Timer1">
+<summary>
+Timer1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._Div1">
+<summary>
+Div1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._ShowQuestions">
+<summary>
+ShowQuestions control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._BtnSubmit">
+<summary>
+BtnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._BtnNext">
+<summary>
+BtnNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Quiz._Lbl_showErrorMessages">
+<summary>
+Lbl_showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._txtboxNumberOfQuestion">
+<summary>
+txtboxNumberOfQuestion control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isQuestionShuffleTrue">
+<summary>
+radiobtn_isQuestionShuffleTrue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isQuestionShuffleFalse">
+<summary>
+radiobtn_isQuestionShuffleFalse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isAnswerShuffleTrue">
+<summary>
+radiobtn_isAnswerShuffleTrue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isAnswerShuffleFalse">
+<summary>
+radiobtn_isAnswerShuffleFalse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._txtbox_startingTime">
+<summary>
+txtbox_startingTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._txtbox_QuizDuration">
+<summary>
+txtbox_QuizDuration control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._txtbox_NoOfQuestionToBeShown">
+<summary>
+txtbox_NoOfQuestionToBeShown control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isNegativeMarkingTrue">
+<summary>
+radiobtn_isNegativeMarkingTrue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._radiobtn_isNegativeMarkingFalse">
+<summary>
+radiobtn_isNegativeMarkingFalse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._cmd_SaveSetting">
+<summary>
+cmd_SaveSetting control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._ValidationSummary1">
+<summary>
+ValidationSummary1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.Setting._lbl_showErrorMessages">
+<summary>
+lbl_showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxFullName">
+<summary>
+txtboxFullName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfFullName">
+<summary>
+rqfFullName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._RegularExpressionValidator3">
+<summary>
+RegularExpressionValidator3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxAddress">
+<summary>
+txtboxAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfAddress">
+<summary>
+rqfAddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxPhoneNumber">
+<summary>
+txtboxPhoneNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfPhoneNumber">
+<summary>
+rqfPhoneNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._RegularExpressionValidator2">
+<summary>
+RegularExpressionValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxEmail">
+<summary>
+txtboxEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfEmail">
+<summary>
+rqfEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._RegularExpressionValidator1">
+<summary>
+RegularExpressionValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxPassword1">
+<summary>
+txtboxPassword1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfPassword">
+<summary>
+rqfPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxPassword2">
+<summary>
+txtboxPassword2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._rqfConfirmPassword">
+<summary>
+rqfConfirmPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._cmpVPassword">
+<summary>
+cmpVPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._radiobtnAdmin">
+<summary>
+radiobtnAdmin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._radiobtnInstructor">
+<summary>
+radiobtnInstructor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._radiobtnStudent">
+<summary>
+radiobtnStudent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._addElements">
+<summary>
+addElements control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._space11">
+<summary>
+space11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._space21">
+<summary>
+space21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._departmentNameTitle">
+<summary>
+departmentNameTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxDepartmentName">
+<summary>
+txtboxDepartmentName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._space31">
+<summary>
+space31 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._semesterNumberTitle">
+<summary>
+semesterNumberTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtboxSemesterNumber">
+<summary>
+txtboxSemesterNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._space41">
+<summary>
+space41 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._gradeScaleTitle">
+<summary>
+gradeScaleTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._txtBoxGradeScale">
+<summary>
+txtBoxGradeScale control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._btnSignUp">
+<summary>
+btnSignUp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._showErrorMessages">
+<summary>
+showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.SignUp._ValidationSummary1">
+<summary>
+ValidationSummary1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._title">
+<summary>
+title control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._StudentProfile">
+<summary>
+StudentProfile control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._btnStartQuiz">
+<summary>
+btnStartQuiz control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._btnShowResult">
+<summary>
+btnShowResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Quiz_Application.student._showErrorMessages">
+<summary>
+showErrorMessages control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
